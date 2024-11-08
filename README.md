@@ -53,13 +53,3 @@ We welcome contributions from the community! If you'd like to contribute to the 
 4. Push your changes to your forked repository.
 5. Submit a pull request to the main repository.
 
-## 📜 License
-
-CryptoEye is licensed under the [MIT License](LICENSE).
-
-## 📧 Contact
-
-If you have any questions or feedback, feel free to reach out to us at:
-
-- Email: 📧 cryptoeye@example.com
-- Twitter: 🐦 [@CryptoEyeApp](https://twitter.com/CryptoEyeApp)
