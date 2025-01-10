@@ -53,3 +53,9 @@ We welcome contributions from the community! If you'd like to contribute to the 
 4. Push your changes to your forked repository.
 5. Submit a pull request to the main repository.
 
+
+## 📜 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) file for details.
+
+
